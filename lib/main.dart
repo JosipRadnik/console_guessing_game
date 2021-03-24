@@ -16,10 +16,12 @@ double promptDouble() {
 void main() {
   String answer = 'Joe The Cup';
   String guess = '';
+  int count = 0;
 
   while (guess != answer) {
     guess = promptText('Enter a guess:');
+    count++;
   }
 
-  print('You won!');
+  print('You won in ${count} guesses!');
 }
