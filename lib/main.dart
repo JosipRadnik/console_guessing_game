@@ -13,7 +13,7 @@ double promptDouble() {
 }
 
 void main() {
-  var answer = 'Joe The Cup';
+  var answer = 'Joey';
   var guess = '';
   var count = 0;
 
