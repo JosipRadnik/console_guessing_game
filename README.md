@@ -1,4 +1,6 @@
-A more advanced app which implements a 'while loop'.
+A more advanced app which implements a 'while loop'. 
+
+It doesn't have the ability to enter a word that is going to be guessed by others...
 
 This app doesn't work on VSC terminal. Error: "Global evaluation requires a thread to have been loaded.".
 
