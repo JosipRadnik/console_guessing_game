@@ -1,4 +1,4 @@
-A more advanced app which implements a 'while loop'. 
+A simple app which implements a 'while loop'. 
 
 It doesn't have the ability to enter a word that is going to be guessed by others...
 
